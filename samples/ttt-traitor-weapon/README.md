@@ -31,7 +31,10 @@ in `lua/weapons/weapon_ttt_sample_ak47.lua`.
 * **Traitor & Detective equipment**
     * `SWEP.CanBuy = { ROLE_TRAITOR, ROLE_DETECTIVE }`
 
+<br>
 
+### Making a custom icon
+[Follow this guide](https://github.com/BadgerCode/TTT-Developer-Resources/tree/master/weapons/icons#custom-weapon-icons) to make a custom icon for your weapon.
 
 
 <br>
