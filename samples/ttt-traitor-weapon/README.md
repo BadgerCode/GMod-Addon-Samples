@@ -41,18 +41,23 @@ in `lua/weapons/weapon_ttt_sample_ak47.lua`.
 ## Testing
 * [Copy the addon to your Garry's Mod folder](https://github.com/BadgerCode/GMod-Addon-Samples#usage)
 * Start up Garry's Mod.
-    * If you already had Garry's Mod open before creating your addon folder, restart it
+    * If you already had Garry's Mod open before creating your addon folder:
+        * [Open the developer console](https://steamcommunity.com/sharedfiles/filedetails/?id=627640216)
+        * Type `reload_legacy_addons` and press enter
 * Play TTT
+    * If you are already playing TTT singleplayer
+        * [Open the developer console](https://steamcommunity.com/sharedfiles/filedetails/?id=627640216)
+        * Type `reload` and press enter
     * Click Start New Game
     * Set the gamemode to TTT
     * Select any map (e.g. `gm_construct`)
     * Click Start Game
 * Allow yourself to spawn
-    * [Open console](https://steamcommunity.com/sharedfiles/filedetails/?id=627640216)
+    * [Open the developer console](https://steamcommunity.com/sharedfiles/filedetails/?id=627640216)
     * Type `ttt_debug_preventwin 1` and press enter
     * Type `ttt_minimum_players 1` and press enter
 * Spawn the weapon
-    * Open console
+    * [Open the developer console](https://steamcommunity.com/sharedfiles/filedetails/?id=627640216)
     * Type `give weapon_ttt_sample_ak47` and press enter
         * _weapon_ttt_sample_ak47_ is the name of the weapon file
 

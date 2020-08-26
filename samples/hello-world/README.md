@@ -19,8 +19,13 @@ The file `addon.json` includes information used when uploading the addon to the 
 ## Testing
 * [Copy the addon to your Garry's Mod folder](https://github.com/BadgerCode/GMod-Addon-Samples#usage)
 * Start up Garry's Mod.
-    * If you already had Garry's Mod open before creating your addon folder, restart it
+    * If you already had Garry's Mod open before creating your addon folder:
+        * [Open the developer console](https://steamcommunity.com/sharedfiles/filedetails/?id=627640216)
+        * Type `reload_legacy_addons` and press enter
 * Play sandbox
+    * If you are already playing Sandbox singleplayer
+        * [Open the developer console](https://steamcommunity.com/sharedfiles/filedetails/?id=627640216)
+        * Type `reload` and press enter
     * Click Start New Game
     * Set the gamemode to Sandbox
     * Select any map (e.g. `gm_construct`)
