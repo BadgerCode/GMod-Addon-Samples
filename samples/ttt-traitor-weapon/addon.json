@@ -1,0 +1,12 @@
+{
+    "title": "Traitor AK47",
+    "description": "An AK47 that traitors can buy in the equipment shop",
+    "type": "weapon",
+    "tags": [
+        "fun"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md"
+    ]
+}
