@@ -2,11 +2,18 @@
 
 This is a basic addon which includes an AK47 weapon for Sandbox.
 
+Check the [wiki](https://wiki.facepunch.com/gmod/Structures/SWEP) for additional options and functions available on weapons.
+
+<br>
+
 ## Files
 
 The weapon code can be found in `lua/weapons/weapon_ak47.lua`
 
 The file `addon.json` includes information used when uploading the addon to the workshop.
+
+
+<br>
 
 
 ## Testing
