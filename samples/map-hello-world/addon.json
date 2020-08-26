@@ -1,0 +1,19 @@
+{
+    "title": "My first map",
+    "description": "This is a basic map example",
+    "type": "map",
+    "tags": [
+        "fun",
+        "build"
+    ],
+    "ignore": [
+        ".git/*",
+        ".gitignore",
+        "README.md",
+        "*.gma",
+        "*.vmf",
+        "*.log",
+        "*.prt",
+        "*.vmx"
+    ]
+}

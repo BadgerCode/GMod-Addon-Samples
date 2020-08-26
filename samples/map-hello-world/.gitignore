@@ -1,0 +1,8 @@
+# Workshop temporary files
+*.gma
+
+# Map compilation temporary files
+*.log
+*.prt
+*.vmx
+

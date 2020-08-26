@@ -25,6 +25,7 @@ See [Usage](#Usage) for instructions on how to download and use the samples.
 | -- | -- |
 | [Hello World](samples/hello-world/) | A basic sandbox weapon |
 | [TTT Traitor Weapon](samples/ttt-traitor-weapon/) | A weapon for TTT that traitors can buy through the equipment shop |
+| [Map Hello World](samples/map-hello-world/) | A simple map addon |
 
 
 <br>
